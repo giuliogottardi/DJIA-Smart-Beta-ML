@@ -1,6 +1,3 @@
-# DJIA-Smart-Beta-ML
-Machine Learning framework for Smart-Beta allocation on the Dow Jones Industrial Average (2007-2026). Comparison of Ridge, Lasso, XGBoost, and Random Forest models vs DJITR benchmark.
-
 # DJIA Smart-Beta Allocation with Machine Learning
 
 This project develops a **Smart-Beta** investment framework applied to the components of the **Dow Jones Industrial Average (DJIA)** for the 2007-2026 period. The goal is to outperform the reference benchmark (DJITR) using signals derived from fundamental metrics and supervised learning models.
