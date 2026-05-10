@@ -16,7 +16,7 @@ The workflow is divided into three main phases:
    
 3. **[03_Model_Comparison.ipynb](./03_Model_Comparison.ipynb)** The analytical core: model training and Out-of-Sample (OOS) evaluation. Comparison between the stability of linear models vs. the complexity of XGBoost/RF.
 
-4. **[Final_Presentation.pdf](./Final_Presentation.pdf)** Final report featuring Equity Curve plots, Drawdown analysis, and performance scorecards.
+4. **[Final_Presentation.pdf](./AIBF_Final_Presentation.pdf)** Final report featuring Equity Curve plots, Drawdown analysis, and performance scorecards.
 
 ## 🏆 Key Results
 * **Winning Model**: The **Ridge + Lasso** ensemble showed the highest OOS robustness.
