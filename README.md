@@ -23,7 +23,14 @@ The workflow is divided into three main phases:
 * **Performance**: Generated an **annual Alpha of approximately 0.81%** relative to the DJITR benchmark, with superior risk management (improved Sharpe Ratio).
 * **Target**: Prediction of monthly excess returns for dynamic portfolio rebalancing.
 
+<img width="2000" height="1125" alt="FinalPresentation (1)_pages-to-jpg-0015" src="https://github.com/user-attachments/assets/38296195-8470-4efe-ba87-98390c04afdd" />
+
+<br>
+
+<img width="2000" height="1125" alt="FinalPresentation (1)_pages-to-jpg-0016" src="https://github.com/user-attachments/assets/e80c407d-18ec-415e-b74f-380a7309dea1" />
+
+
 ---
 **Authors**: Leonardo Alosi, Samuele Flaiban, Giulio Gottardi, Camilla Pilone  
-**Course**: Artificial Intelligence for Banking & Finance (Prof. Lagasio)  
+**Course**: Artificial Intelligence for Banking & Finance (Prof. Valentina Lagasio)  
 **Date**: May 2026
