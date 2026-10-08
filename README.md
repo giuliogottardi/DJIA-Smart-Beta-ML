@@ -25,8 +25,6 @@ The workflow is divided into three main phases:
 
 <img width="2000" height="1125" alt="FinalPresentation (1)_pages-to-jpg-0015" src="https://github.com/user-attachments/assets/38296195-8470-4efe-ba87-98390c04afdd" />
 
-<br>
-
 <img width="2000" height="1125" alt="FinalPresentation (1)_pages-to-jpg-0016" src="https://github.com/user-attachments/assets/e80c407d-18ec-415e-b74f-380a7309dea1" />
 
 
